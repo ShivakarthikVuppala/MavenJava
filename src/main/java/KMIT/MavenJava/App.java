@@ -9,6 +9,6 @@ public class App
     public static void main(String[] args)
     {
         // Jenkins webhook test
-        System.out.println("Hello World!!!");
+        System.out.println("Hello World! Hello World");
     }
 }
